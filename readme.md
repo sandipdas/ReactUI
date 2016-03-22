@@ -1,1 +1,0 @@
-babel --watch public/src/js --out-dir public/dist/js
